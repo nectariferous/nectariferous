@@ -116,9 +116,14 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
   <img src="https://img.shields.io/badge/Binance_Smart_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white" alt="Binance Smart Chain">
 </p>
+
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nectariferous&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nectariferous&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nectariferous&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
 <h2 align="center">🚀 Featured Projects</h2>
 
