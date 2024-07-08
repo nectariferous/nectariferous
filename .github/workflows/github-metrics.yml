@@ -1,0 +1,24 @@
+name: 💝 GitHub Sponsorships
+on:
+  schedule: # Run at least once a day
+    - cron: "0 0 * * *"
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      - name: 💝 GitHub Sponsorships
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.sponsorships.svg
+          token: ${{ secrets.TOKEN }}
+          base: ""
+          plugin_sponsorships: yes
+          plugin_sponsorships_sections: amount,sponsorships
+          plugin_sponsorships_size: 24
