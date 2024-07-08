@@ -116,23 +116,9 @@
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
   <img src="https://img.shields.io/badge/Binance_Smart_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white" alt="Binance Smart Chain">
 </p>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Nectariferous's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nectariferous&layout=compact&langs_count=8&theme=radical" alt="Nectariferous's Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=radical" alt="Nectariferous's GitHub Streak"/>
-</p>
-
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" alt="Nectariferous's GitHub Trophies">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=nectariferous&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nectariferous&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <h2 align="center">🚀 Featured Projects</h2>
 
