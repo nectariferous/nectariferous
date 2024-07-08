@@ -3,40 +3,63 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Coding GIF" width="500">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM5OTQ5NzMyYzM1NDQ1NDBlMGNhZGU5NGIyYjY1ZDA1NDJkZDJlNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="500">
 </p>
 
 <p align="center">
-  <a href="https://github.com/nectariferous"><img src="https://img.shields.io/github/followers/nectariferous?label=Follow&style=social" alt="GitHub followers"></a>
+  <a href="https://github.com/nectariferous"><img src="https://img.shields.io/github/followers/nectariferous?label=Followers&style=social" alt="GitHub followers"></a>
   <img src="https://komarev.com/ghpvc/?username=nectariferous&color=brightgreen" alt="Profile Views">
+  <a href="https://wakatime.com/@nectariferous"><img src="https://wakatime.com/badge/user/nectariferous.svg" alt="Total time coded since Jan 1 2023" /></a>
 </p>
 
 <h2 align="center">🚀 Professional Expertise</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</p>
-
 <table align="center">
   <tr>
-    <td align="center"><b>💻 Software Development</b></td>
-    <td align="center"><b>🔐 Ethical Hacking</b></td>
-    <td align="center"><b>⛓️ Blockchain Innovation</b></td>
+    <td align="center" width="33%">
+      <img src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e472ipfqcti2zybhqa7v2xlp1yjxl9xhvzmvqlndy8w&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">
+      <br>
+      <b>💻 Software Development</b>
+      <br>
+      Crafting robust, scalable solutions
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media1.giphy.com/media/RDZo7znAdn2u7sAcWH/giphy.gif?cid=ecf05e47j4qjc0pehgfa33fcsqh8i1md2s6hkbp6nhnkchpy&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">
+      <br>
+      <b>🔐 Ethical Hacking</b>
+      <br>
+      Identifying and mitigating vulnerabilities
+    </td>
+    <td align="center" width="33%">
+      <img src="https://media1.giphy.com/media/HWhsfeU3gO24mc1pn0/giphy.gif?cid=ecf05e47uc61lsbmbggy21mnptmkbvx0eycj7e8pr9o6jz05&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">
+      <br>
+      <b>⛓️ Blockchain Innovation</b>
+      <br>
+      Pioneering cutting-edge applications
+    </td>
   </tr>
   <tr>
-    <td align="center">Crafting robust, scalable solutions</td>
-    <td align="center">Identifying and mitigating vulnerabilities</td>
-    <td align="center">Pioneering cutting-edge applications</td>
-  </tr>
-  <tr>
-    <td align="center"><b>🔗 API Architecture</b></td>
-    <td align="center"><b>🌐 Full-Stack Mastery</b></td>
-    <td align="center"><b>🚀 DevOps & Cloud</b></td>
-  </tr>
-  <tr>
-    <td align="center">Designing high-performance, secure APIs</td>
-    <td align="center">Seamlessly bridging front-end and back-end</td>
-    <td align="center">Optimizing deployment and scalability</td>
+    <td align="center">
+      <img src="https://media0.giphy.com/media/pzmbXFDiRbGX7spKVK/giphy.gif?cid=ecf05e47qn0umlqn1ugqgbr84dyvh79q4wyvq77cxatmbg76&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">
+      <br>
+      <b>🔗 API Architecture</b>
+      <br>
+      Designing high-performance, secure APIs
+    </td>
+    <td align="center">
+      <img src="https://media2.giphy.com/media/jI2lZ1yECs7J9f7ZDO/giphy.gif?cid=ecf05e47whlt8nfwtnwwqrv7l1vsxvdaolao11zc1z48m1ny&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">
+      <br>
+      <b>🌐 Full-Stack Mastery</b>
+      <br>
+      Seamlessly bridging front-end and back-end
+    </td>
+    <td align="center">
+      <img src="https://media4.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif?cid=ecf05e47lkrfmnt60q0a43fxa1vqgqz9o6jldmgv03j4ldhb&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="100">
+      <br>
+      <b>🚀 DevOps & Cloud</b>
+      <br>
+      Optimizing deployment and scalability
+    </td>
   </tr>
 </table>
 
@@ -77,8 +100,12 @@
 
 <h3 align="center">📊 Total Donations</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffd700&label=ETH&query=result&url=https://api.etherscan.io/api?module=account&action=balance&address=0x3A06322e9F1124F6B2de8F343D4FDce4D1009869&tag=latest&apikey=ZY88MZ9XM3GN6GMJFNHG11YX1RCGFKKKSV&suffix=%20ETH&cacheSeconds=3600" alt="ETH Donations">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffd700&label=BNB&query=result&url=https://api.bscscan.com/api?module=account&action=balance&address=0x3A06322e9F1124F6B2de8F343D4FDce4D1009869&tag=latest&apikey=2DTCGB62IX599KTP355Q6QJF19BD5B9R25&suffix=%20BNB&cacheSeconds=3600" alt="BNB Donations">
+  <a href="https://etherscan.io/address/0x3A06322e9F1124F6B2de8F343D4FDce4D1009869">
+    <img src="https://img.shields.io/badge/ETH-View_on_Etherscan-3C3C3D?style=for-the-badge&logo=ethereum" alt="View ETH on Etherscan">
+  </a>
+  <a href="https://bscscan.com/address/0x3A06322e9F1124F6B2de8F343D4FDce4D1009869">
+    <img src="https://img.shields.io/badge/BNB-View_on_BSCScan-F3BA2F?style=for-the-badge&logo=binance" alt="View BNB on BSCScan">
+  </a>
 </p>
 
 <h2 align="center">🌐 Connect with Me</h2>
@@ -88,25 +115,15 @@
   <a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
 </p>
 
+<h3 align="center">🚀 Current Projects</h3>
 
+<p align="center">
+  <a href="https://github.com/nectariferous/awesome-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=awesome-project&theme=radical" alt="Awesome Project">
+  </a>
+</p>
 
-## Tech Arsenal
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
-
-
-<h3 align="center">Thank you for exploring my digital realm! 🚀</h3>
+<h3 align="center">Thank you for exploring my digital realm! 🌟</h3>
 <p align="center">Feel free to reach out on <a href="https://t.me/nectariferous">Telegram</a> if you'd like to connect or collaborate!</p>
 
 <p align="center">
