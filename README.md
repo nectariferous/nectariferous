@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://github.com/nectariferous"><img src="https://img.shields.io/github/followers/nectariferous?label=Followers&style=social" alt="GitHub followers"></a>
   <img src="https://komarev.com/ghpvc/?username=nectariferous&color=brightgreen" alt="Profile Views">
-  <a href="https://wakatime.com/@nectariferous"><img src="https://wakatime.com/badge/user/nectariferous.svg" alt="Total time coded since Jan 1 2023" /></a>
 </p>
 
 <h2 align="center">🚀 Professional Expertise</h2>
