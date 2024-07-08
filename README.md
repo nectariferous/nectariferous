@@ -140,8 +140,8 @@
   <a href="https://github.com/nectariferous/MAGAZ">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=MAGAZ&theme=radical" alt="MAGAZ Project">
   </a>
-  <a href="https://github.com/nectariferous/blockchain-explorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=blockchain-explorer&theme=radical" alt="Blockchain Explorer Project">
+  <a href="https://github.com/nectariferous/hyip-investment-platform">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=hyip-investment-platform&theme=radical" alt="Blockchain Explorer Project">
   </a>
 </p>
 <h2 align="center">💖 Support My Work</h2>
