@@ -170,18 +170,15 @@
 <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://twitter.com/nectariferous"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/nectariferous"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://t.me/nectariferous"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
-  <a href="https://discord.gg/nectariferous"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
 
 <h3 align="center">Thank you for exploring my digital realm! 🌟</h3>
 <p align="center">Feel free to reach out if you'd like to connect, collaborate, or discuss innovative ideas!</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Innovate%20|%20Create%20|%20Secure&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%" alt="Footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Living%20|%20the%20|%20dream%city&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%" alt="Footer">
 </p>
 <p align="center" style="font-size: 12px; color: #666;">
   © 2023 Nectariferous. All rights reserved.
