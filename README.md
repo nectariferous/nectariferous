@@ -144,6 +144,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=hyip-investment-platform&theme=radical" alt="Blockchain Explorer Project">
   </a>
 </p>
+
 <h2 align="center">💖 Support My Work</h2>
 
 <p align="center">
@@ -178,8 +179,12 @@
 <p align="center">Feel free to reach out if you'd like to connect, collaborate, or discuss innovative ideas!</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Living%20%20the%20%20dream%city!&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%" alt="Footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Living%20the%20dream%20city!&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%" alt="Footer">
 </p>
 <p align="center" style="font-size: 12px; color: #666;">
   © 2023 Nectariferous. All rights reserved.
+</p>
+
+<p align="center">
+  <strong>Powered by <a href="https://t.me/+P9aWGQZoD6MyNGM1">VorTex Network™</a></strong>
 </p>
