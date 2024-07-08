@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/mP2xK7C.gif" alt="Animated Banner" width="100%">
+  <img src="[https://i.imgur.com/mP2xK7C.gif](https://avatars.githubusercontent.com/u/133787954?v=4)" alt="Animated Banner" width="100%">
 </p>
 
 <p align="center">
