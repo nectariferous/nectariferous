@@ -1,94 +1,58 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Nectariferous'+Realm;Master+of+Code+|+Ethical+Hacker;Blockchain+Innovator+|+API+Architect&center=true&width=800&height=50&font=Roboto&color=2ECC40">
-</h1>
+# Welcome to Nectariferous' Realm 👋
 
-<p align="center">
-  <img src="[https://i.imgur.com/mP2xK7C.gif](https://avatars.githubusercontent.com/u/133787954?v=4)" alt="Animated Banner" width="100%">
-</p>
+## About Me
+Passionate software developer and ethical hacker. My journey began with a fascination for computer systems, and now I'm living the dream of creating and securing digital solutions.
 
-<p align="center">
-  <a href="https://github.com/nectariferous"><img src="https://img.shields.io/github/followers/nectariferous?label=Follow&style=social" alt="GitHub followers"></a>
-  <img src="https://komarev.com/ghpvc/?username=nectariferous&color=brightgreen" alt="Profile Views">
-</p>
+- 💻 I love coding and creating new projects
+- 🔒 Focused on ethical hacking and cybersecurity
+- 🌱 Continuously learning and growing
 
-<details>
-<summary>🚀 Professional Expertise</summary>
-<br>
+## Professional Expertise
 
-<div align="center">
+- **Software Development**: Crafting robust, scalable solutions
+- **Ethical Hacking**: Identifying and mitigating vulnerabilities
+- **Blockchain Innovation**: Pioneering cutting-edge applications
+- **API Architecture**: Designing high-performance, secure APIs
+- **Full-Stack Mastery**: Seamlessly bridging front-end and back-end technologies
 
-| 💻 Software Development | 🔐 Ethical Hacking | ⛓️ Blockchain Innovation |
-|:----------------------:|:------------------:|:------------------------:|
-| <img src="https://i.imgur.com/TiIggBo.png" width="200"> | <img src="https://i.imgur.com/dVbp3XN.png" width="200"> | <img src="https://i.imgur.com/2WdPwoF.png" width="200"> |
-| Crafting robust, scalable solutions | Identifying and mitigating vulnerabilities | Pioneering cutting-edge applications |
+## Tech Arsenal
 
-| 🔗 API Architecture | 🌐 Full-Stack Mastery |
-|:-------------------:|:---------------------:|
-| <img src="https://i.imgur.com/rjQjMkk.png" width="200"> | <img src="https://i.imgur.com/3Jqkk68.png" width="200"> |
-| Designing high-performance, secure APIs | Seamlessly bridging front-end and back-end |
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
-</div>
-</details>
+## GitHub Stats
 
-<details>
-<summary>🛠️ Tech Arsenal</summary>
-<br>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nectariferous&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=radical)
 
-<div align="center">
+## Support My Work
 
-![Tech Stack](https://skillicons.dev/icons?i=js,python,solidity,nodejs,react,vue,mongodb,postgres,docker,kubernetes,aws,ethereum&theme=dark)
+If you find my work valuable, consider supporting me through:
 
-</div>
-</details>
+- [GitHub Sponsors](https://github.com/sponsors/nectariferous)
+- [Buy Me a Coffee](https://buymeacoffee.com/nectariferous)
+- [Ko-fi](https://ko-fi.com/nectariferous)
 
-<details>
-<summary>📊 GitHub Analytics</summary>
-<br>
+### Donation Address
+`0x3A06322e9F1124F6B2de8F343D4FDce4D1009869`
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nectariferous&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nectariferous&layout=compact&langs_count=8&theme=radical"/>
-</p>
+## Connect with Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies">
-</p>
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nectariferous)
+[![Telegram Channel](https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/likhondotxyz)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=radical" alt="GitHub Streak">
-</p>
+---
 
-</details>
-
-<h2 align="center">💖 Support My Work</h2>
-
-<p align="center">
-  <a href="https://github.com/sponsors/nectariferous"><img src="https://img.shields.io/badge/GitHub_Sponsors-Invest_in_Innovation-30363D?style=for-the-badge&logo=github-sponsors" alt="GitHub Sponsors"></a>
-  <a href="https://buymeacoffee.com/nectariferous"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Fuel_My_Creativity-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"></a>
-  <a href="https://ko-fi.com/nectariferous"><img src="https://img.shields.io/badge/Ko--fi-Support_My_Projects-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
-</p>
-
-<h3 align="center">🎁 Donation Address</h3>
-<p align="center">
-  <code style="background-color: #f0f0f0; padding: 4px 8px; border-radius: 4px;">0x3A06322e9F1124F6B2de8F343D4FDce4D1009869</code>
-</p>
-
-<h3 align="center">📊 Total Donations</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffd700&label=ETH&query=result&url=https://api.etherscan.io/api?module=account&action=balance&address=0x3A06322e9F1124F6B2de8F343D4FDce4D1009869&tag=latest&apikey=ZY88MZ9XM3GN6GMJFNHG11YX1RCGFKKKSV&suffix=%20ETH&cacheSeconds=3600" alt="ETH Donations">
-  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffd700&label=BNB&query=result&url=https://api.bscscan.com/api?module=account&action=balance&address=0x3A06322e9F1124F6B2de8F343D4FDce4D1009869&tag=latest&apikey=2DTCGB62IX599KTP355Q6QJF19BD5B9R25&suffix=%20BNB&cacheSeconds=3600" alt="BNB Donations">
-</p>
-
-<h2 align="center">🌐 Connect with Me</h2>
-
-<p align="center">
-  <a href="https://t.me/nectariferous"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
-</p>
-
-<h3 align="center">Thank you for exploring my digital realm! 🚀</h3>
-<p align="center">Feel free to reach out on <a href="https://t.me/nectariferous">Telegram</a> if you'd like to connect or collaborate!</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
-</p>
+Thank you for exploring my digital realm! 🚀
+Feel free to reach out on [Telegram](https://t.me/nectariferous) if you'd like to connect or collaborate!
