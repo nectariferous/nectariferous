@@ -183,3 +183,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Innovate%20|%20Create%20|%20Secure&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%" alt="Footer">
 </p>
+<p align="center" style="font-size: 12px; color: #666;">
+  © 2023 Nectariferous. All rights reserved.
+</p>
