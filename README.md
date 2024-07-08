@@ -179,7 +179,7 @@
 <p align="center">Feel free to reach out if you'd like to connect, collaborate, or discuss innovative ideas!</p>
 
 <p align="center">
-  <strong>Powered by <a href="https://t.me/+P9aWGQZoD6MyNGM1">VorTex Network™</a></strong>
+  <strong>Powered by <a href="https://t.me/+P9aWGQZoD6MyNGM1">➤VorTex Network™</a></strong>
 </p>
 <p align="center" style="font-size: 12px; color: #666;">
   © 2023 Nectariferous. All rights reserved.
