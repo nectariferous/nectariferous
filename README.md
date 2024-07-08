@@ -102,10 +102,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nectariferous.nectariferous&left_color=antiquewhite&right_color=aqua"  />
-</div>
-
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
@@ -114,6 +110,7 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nectariferous.nectariferous&left_color=antiquewhite&right_color=aqua">
 </p>
 
 <h3 align="center">Blockchain</h3>
