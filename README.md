@@ -89,19 +89,29 @@
 </p>
 
 
-<h2 align="center">📊 GitHub Stats & Achievements & 🚀 Featured Projects</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark" alt="GitHub Stats" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; margin: 10px; width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-</p>
+<h2 align="center">🏆 GitHub Accomplishments & ✨ Featured Projects</h2>
 
 <p align="center">
-  <a href="https://github.com/nectariferous/MAGAZ" style="margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=MAGAZ&theme=github_dark" alt="MAGAZ Project" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark&count_private=true" 
+       alt="GitHub Stats" 
+       style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; margin: 10px; width: 49%; max-width: 420px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=github_dark" 
+       alt="GitHub Streak Stats" 
+       style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; margin: 10px; width: 49%; max-width: 420px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</p>
+
+
+<h3 align="center">🚀 My Featured Projects</h3>
+<p align="center">
+  <a href="https://github.com/nectariferous/MAGAZ" style="margin: 10px;" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=MAGAZ&theme=github_dark" alt="MAGAZ Project" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; width: 49%; max-width: 420px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s; box-sizing:border-box">
   </a>
-  <a href="https://github.com/nectariferous/hyip-investment-platform" style="margin: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=hyip-investment-platform&theme=github_dark" alt="HYIP Investment Platform Project" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
+  <a href="https://github.com/nectariferous/hyip-investment-platform" style="margin: 10px;" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=hyip-investment-platform&theme=github_dark" alt="HYIP Investment Platform Project" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; width: 49%; max-width: 420px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s; box-sizing:border-box">
   </a>
 </p>
+
 
 
 <h2 align="center">💖 Support My Work</h2>
