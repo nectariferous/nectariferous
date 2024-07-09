@@ -116,8 +116,8 @@ transactions_bsc = transaction_response_bsc.json()['data']
 def generate_transaction_graph(transactions_eth, transactions_bsc):
     delete_existing_file('transactions_graph.png')
     
-    eth_values = [float(tx['valueDisplay'].replace(',', '')) for tx in transactions_eth[:10]]
-    bsc_values = [float(tx['valueDisplay'].replace(',', '')) for tx in transactions_bsc[:10]]
+    eth_values = [tx['valueDisplay'] for tx in transactions_eth[:10]]
+    bsc_values = [tx['valueDisplay'] for tx in transactions_bsc[:10]]
     
     fig, ax = plt.subplots(facecolor='black')
     ax.plot(range(len(eth_values)), eth_values, label='ETH', color='lime')
