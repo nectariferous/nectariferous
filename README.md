@@ -149,20 +149,17 @@
 
 <h2 align="center">Cryptocurrency Prices</h2>
 <p align="center">
-  <img src="BTC.png" alt="Bitcoin Price">
-  <img src="ETH.png" alt="Ethereum Price">
-  <img src="LTC.png" alt="Litecoin Price">
+  <img src="BTC.png" alt="Bitcoin Price" style="border: 2px solid #2ECC40; border-radius: 5px; padding: 10px; margin: 10px;">
+  <img src="ETH.png" alt="Ethereum Price" style="border: 2px solid #2ECC40; border-radius: 5px; padding: 10px; margin: 10px;">
+  <img src="LTC.png" alt="Litecoin Price" style="border: 2px solid #2ECC40; border-radius: 5px; padding: 10px; margin: 10px;">
 </p>
 
 <h2 align="center">Donation Trackers</h2>
 <p align="center">
-  <img src="ETH_donations.png" alt="ETH Donations">
-  <img src="BNB_donations.png" alt="BNB Donations">
+  <img src="ETH_donations.png" alt="ETH Donations" style="border: 2px solid #2ECC40; border-radius: 5px; padding: 10px; margin: 10px;">
+  <img src="BNB_donations.png" alt="BNB Donations" style="border: 2px solid #2ECC40; border-radius: 5px; padding: 10px; margin: 10px;">
 </p>
 
-<h2 align="center">Live Updates from Telegram</h2>
-<div class="telegram-post-widget" data-telegram-post="Telegram/5"></div>
-<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-post="Telegram/5"></script>
 
 <p align="center">
   <strong>Powered by <a href="https://t.me/+P9aWGQZoD6MyNGM1">➤VorTex Network™</a></strong>
