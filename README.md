@@ -138,15 +138,14 @@
   </a>
 </p>
 
-<h2 align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a href="https://t.me/nectariferous">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://t.me/likhondotxyz">
-    <img src="https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
-  </a>
-</p>
+
+## 🌐 Connect & Support
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nectariferous)
+[![Telegram Channel](https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/likhondotxyz)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Invest_in_Innovation-30363D?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/nectariferous)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Fuel_My_Creativity-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nectariferous)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_My_Projects-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nectariferous)    
 
 <h3 align="center">Thank you for exploring my digital realm! 🌟</h3>
 <p align="center">Feel free to reach out if you'd like to connect, collaborate, or discuss innovative ideas!</p>
