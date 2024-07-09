@@ -108,19 +108,19 @@
 <h2 align="center">💖 Support My Work</h2>
 <p align="center" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); display: inline-block; margin: 10px; background-color: #f9f9f9; transition: transform 0.2s;">
   <a href="https://github.com/sponsors/nectariferous" style="margin: 10px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub_Sponsors-Invest_in_Innovation-30363D?style=for-the-badge&logo=github-sponsors" alt="GitHub Sponsors" style="border-radius: 5px; transition: transform 0.2s; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-Invest_in_Innovation-30363D?style=for-the-badge&logo=github-sponsors" alt="GitHub Sponsors" style="border-radius: 5px; transition: transform 0.2s; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); margin: 10px;">
   </a>
   <a href="https://buymeacoffee.com/nectariferous" style="margin: 10px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Fuel_My_Creativity-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" style="border-radius: 5px; transition: transform 0.2s; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Fuel_My_Creativity-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" style="border-radius: 5px; transition: transform 0.2s; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); margin: 10px;">
   </a>
   <a href="https://ko-fi.com/nectariferous" style="margin: 10px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Ko--fi-Support_My_Projects-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" style="border-radius: 5px; transition: transform 0.2s; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">
+    <img src="https://img.shields.io/badge/Ko--fi-Support_My_Projects-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" style="border-radius: 5px; transition: transform 0.2s; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); margin: 10px;">
   </a>
 </p>
 
 <h3 align="center">🎁 Donation Address</h3>
 <p align="center" style="margin: 10px;">
-  <code style="background-color: #f0f0f0; padding: 8px 16px; border-radius: 8px; display: inline-block; font-size: 1.1em; color: #333; transition: background-color 0.2s, color 0.2s;">
+  <code style="background-color: #f0f0f0; padding: 8px 16px; border-radius: 8px; display: inline-block; font-size: 1.1em; color: #333; transition: background-color 0.2s, color 0.2s; margin: 10px;">
     0x3A06322e9F1124F6B2de8F343D4FDce4D1009869
   </code>
 </p>
