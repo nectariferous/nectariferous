@@ -1,7 +1,5 @@
 <div align="center">
 
-# Nectariferous
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Nectariferous&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Blockchain%20Developer%20|%20Ethical%20Hacker%20|%20Innovator&descAlignY=51&descAlign=62)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7C3&center=true&vCenter=true&width=435&lines=Exploring+the+Blockchain+Frontier;Securing+the+Digital+Realm;Innovating+for+the+Future)](https://git.io/typing-svg)
