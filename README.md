@@ -1,3 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<script src="https://telegram.org/js/telegram-web-app.js"></script>
+		<meta charset="UTF-8" />
+		<link rel="icon" type="image/svg+xml" href="/src/assets/images/favicon.svg" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+			rel="stylesheet"
+		/>
+		<title>nectariferous</title>
+
+
 <h1 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+Nectariferous'+Realm;Blockchain+%7C+Ethical+Hacking+%7C+API;Innovate+%7C+Create+%7C+Secure" alt="Typing SVG" /></a>
 </h1>
