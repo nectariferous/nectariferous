@@ -1,19 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="UTF-8" />
-		<link rel="icon" type="image/svg+xml" href="/src/assets/images/favicon.svg" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0" />
-		<link rel="preconnect" href="https://fonts.googleapis.com" />
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-		<link
-			href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
-			rel="stylesheet"
-		/>
-
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/svg+xml" href="/src/assets/images/favicon.svg">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+</head>
+<body>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+Nectariferous'+Realm;Blockchain+%7C+Ethical+Hacking+%7C+API;Innovate+%7C+Create+%7C+Secure" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+Nectariferous'+Realm;Blockchain+%7C+Ethical+Hacking+%7C+API;Innovate+%7C+Create+%7C+Secure" alt="Typing SVG">
+  </a>
 </h1>
 
 <p align="center">
@@ -134,18 +134,23 @@
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark" alt="nectariferous's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark" alt="nectariferous's GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=github-dark-blue" alt="nectariferous's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=github-dark-blue" alt="nectariferous's GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=darkhub&no-frame=true&row=1&column=7" alt="nectariferous's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=darkhub&no-frame=true&row=1&column=7" alt="nectariferous's GitHub Trophies">
 </p>
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313sibgqhe4f24zo7hlejvadex6y&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313sibgqhe4f24zo7hlejvadex6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
+<h2 align="center">🎵 Spotify</h2>
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313sibgqhe4f24zo7hlejvadex6y&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313sibgqhe4f24zo7hlejvadex6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing">
+  </a>
+</p>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -161,9 +166,15 @@
 <h2 align="center">💖 Support My Work</h2>
 
 <p align="center">
-  <a href="https://github.com/sponsors/nectariferous"><img src="https://img.shields.io/badge/GitHub_Sponsors-Invest_in_Innovation-30363D?style=for-the-badge&logo=github-sponsors" alt="GitHub Sponsors"></a>
-  <a href="https://buymeacoffee.com/nectariferous"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Fuel_My_Creativity-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"></a>
-  <a href="https://ko-fi.com/nectariferous"><img src="https://img.shields.io/badge/Ko--fi-Support_My_Projects-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"></a>
+  <a href="https://github.com/sponsors/nectariferous">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-Invest_in_Innovation-30363D?style=for-the-badge&logo=github-sponsors" alt="GitHub Sponsors">
+  </a>
+  <a href="https://buymeacoffee.com/nectariferous">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Fuel_My_Creativity-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+  <a href="https://ko-fi.com/nectariferous">
+    <img src="https://img.shields.io/badge/Ko--fi-Support_My_Projects-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+  </a>
 </p>
 
 <h3 align="center">🎁 Donation Address</h3>
@@ -180,19 +191,27 @@
     <img src="https://img.shields.io/badge/BNB-View_on_BSCScan-F3BA2F?style=for-the-badge&logo=binance" alt="View BNB on BSCScan">
   </a>
 </p>
+
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://t.me/nectariferous"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
+  <a href="https://t.me/nectariferous">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://t.me/likhondotxyz">
+    <img src="https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
+  </a>
 </p>
+
 <h3 align="center">Thank you for exploring my digital realm! 🌟</h3>
 <p align="center">Feel free to reach out if you'd like to connect, collaborate, or discuss innovative ideas!</p>
+
 <p align="center">
   <strong>Powered by <a href="https://t.me/+P9aWGQZoD6MyNGM1">➤VorTex Network™</a></strong>
 </p>
 <p align="center" style="font-size: 12px; color: #666;">
   © 2023 Nectariferous. All rights reserved.
 </p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Living%20the%20dream%20city!&fontSize=24&fontAlignY=65&animation=fadeIn">
@@ -200,3 +219,6 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Living%20the%20dream%20city!&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%" alt="Footer">
   </picture>
 </p>
+
+</body>
+</html>
