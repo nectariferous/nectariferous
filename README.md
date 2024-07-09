@@ -148,17 +148,32 @@
 <p align="center">Feel free to reach out if you'd like to connect, collaborate, or discuss innovative ideas!</p>
 
 <h2 align="center">Cryptocurrency Prices</h2>
-<p align="center">
-  <img src="BTC.png" alt="Bitcoin Price" style="border: 2px solid #2ECC40; border-radius: 5px; padding: 10px; margin: 10px;">
-  <img src="ETH.png" alt="Ethereum Price" style="border: 2px solid #2ECC40; border-radius: 5px; padding: 10px; margin: 10px;">
-  <img src="LTC.png" alt="Litecoin Price" style="border: 2px solid #2ECC40; border-radius: 5px; padding: 10px; margin: 10px;">
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="border: 2px solid #2ECC40; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); width: 200px; text-align: center;">
+    <img src="BTC.png" alt="Bitcoin Price" style="width: 100%; border-radius: 10px;">
+    <p style="margin-top: 10px; font-family: 'Poppins', sans-serif; color: #2ECC40;">Bitcoin (BTC)</p>
+  </div>
+  <div style="border: 2px solid #2ECC40; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); width: 200px; text-align: center;">
+    <img src="ETH.png" alt="Ethereum Price" style="width: 100%; border-radius: 10px;">
+    <p style="margin-top: 10px; font-family: 'Poppins', sans-serif; color: #2ECC40;">Ethereum (ETH)</p>
+  </div>
+  <div style="border: 2px solid #2ECC40; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); width: 200px; text-align: center;">
+    <img src="LTC.png" alt="Litecoin Price" style="width: 100%; border-radius: 10px;">
+    <p style="margin-top: 10px; font-family: 'Poppins', sans-serif; color: #2ECC40;">Litecoin (LTC)</p>
+  </div>
+</div>
 
 <h2 align="center">Donation Trackers</h2>
-<p align="center">
-  <img src="ETH_donations.png" alt="ETH Donations" style="border: 2px solid #2ECC40; border-radius: 5px; padding: 10px; margin: 10px;">
-  <img src="BNB_donations.png" alt="BNB Donations" style="border: 2px solid #2ECC40; border-radius: 5px; padding: 10px; margin: 10px;">
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+  <div style="border: 2px solid #2ECC40; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); width: 300px; text-align: center;">
+    <img src="ETH_donations.png" alt="ETH Donations" style="width: 100%; border-radius: 10px;">
+    <p style="margin-top: 10px; font-family: 'Poppins', sans-serif; color: #2ECC40;">ETH Donations</p>
+  </div>
+  <div style="border: 2px solid #2ECC40; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); width: 300px; text-align: center;">
+    <img src="BNB_donations.png" alt="BNB Donations" style="width: 100%; border-radius: 10px;">
+    <p style="margin-top: 10px; font-family: 'Poppins', sans-serif; color: #2ECC40;">BNB Donations</p>
+  </div>
+</div>
 
 
 <p align="center">
