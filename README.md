@@ -89,18 +89,17 @@
 </p>
 
 
-<h2 align="center">📊 GitHub Stats & Achievements</h2>
+<h2 align="center">📊 GitHub Stats & Achievements & 🚀 Featured Projects</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark" alt="GitHub Stats" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; margin: 10px; width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </p>
 
-<h2 align="center">🚀 Featured Projects</h2>
 <p align="center">
-  <a href="https://github.com/nectariferous/MAGAZ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=MAGAZ&theme=github_dark" alt="MAGAZ Project" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; margin: 10px; width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <a href="https://github.com/nectariferous/MAGAZ" style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=MAGAZ&theme=github_dark" alt="MAGAZ Project" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
   </a>
-  <a href="https://github.com/nectariferous/hyip-investment-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=hyip-investment-platform&theme=github_dark" alt="HYIP Investment Platform Project" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; margin: 10px; width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <a href="https://github.com/nectariferous/hyip-investment-platform" style="margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=hyip-investment-platform&theme=github_dark" alt="HYIP Investment Platform Project" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; width: 400px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
   </a>
 </p>
 
