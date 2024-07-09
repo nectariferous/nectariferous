@@ -115,9 +115,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark" alt="nectariferous's GitHub stats">
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=github-dark-blue" alt="nectariferous's GitHub Streak">
 </p>
 
