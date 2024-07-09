@@ -1,0 +1,30 @@
+name: Update Cryptocurrency Prices
+
+on:
+  schedule:
+    - cron: "0 * * * *" # Runs every hour
+  push:
+    branches:
+      - main
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Install requests
+        run: pip install requests
+      - name: Update prices
+        run: python update-prices.py
+      - name: Commit and push changes
+        run: |
+          git config --global user.name 'github-actions'
+          git config --global user.email 'github-actions@github.com'
+          git add README.md
+          git commit -m "Update cryptocurrency prices"
+          git push
