@@ -1,1 +1,271 @@
-x
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nectariferous - Blockchain Developer | Ethical Hacker | Innovator</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js"></script>
+    <style>
+        :root {
+            --bg-color: #0d1117;
+            --text-color: #c9d1d9;
+            --accent-color: #00F7C3;
+            --secondary-color: #ff00ff;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            text-align: center;
+            padding: 50px 0;
+            background: linear-gradient(45deg, var(--accent-color), var(--secondary-color));
+            color: var(--bg-color);
+            clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+        }
+
+        h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+
+        .typed-text {
+            font-size: 1.5em;
+            min-height: 50px;
+        }
+
+        .skills, .projects, .github-stats, .aspirations, .security-focus, .connect {
+            margin-top: 50px;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .skill-item {
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 10px;
+            border-radius: 5px;
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+
+        .skill-item:hover {
+            transform: translateY(-5px);
+        }
+
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .project-card {
+            background-color: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            padding: 20px;
+            transition: transform 0.3s ease;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .github-stats img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            padding: 10px;
+            border: 1px solid var(--accent-color);
+        }
+
+        .connect-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .connect-button {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            background-color: var(--accent-color);
+            color: var(--bg-color);
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .connect-button:hover {
+            background-color: var(--secondary-color);
+        }
+
+        footer {
+            text-align: center;
+            padding: 20px 0;
+            margin-top: 50px;
+            background: linear-gradient(45deg, var(--secondary-color), var(--accent-color));
+            clip-path: polygon(0 15%, 100% 0, 100% 100%, 0 100%);
+        }
+
+        .eth-address {
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 10px;
+            border-radius: 5px;
+            font-family: monospace;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Nectariferous</h1>
+        <div class="typed-text" id="typed-text"></div>
+    </header>
+
+    <div class="container">
+        <section class="skills">
+            <h2>🧬 Core Skills</h2>
+            <div class="skills-grid">
+                <div class="skill-item">Ethereum</div>
+                <div class="skill-item">Solidity</div>
+                <div class="skill-item">Web3.js</div>
+                <div class="skill-item">Python</div>
+                <div class="skill-item">JavaScript</div>
+            </div>
+        </section>
+
+        <section class="projects">
+            <h2>🚀 Featured Projects</h2>
+            <div class="projects-grid">
+                <div class="project-card">
+                    <h3>MAGAZ</h3>
+                    <p>A decentralized e-commerce platform</p>
+                </div>
+                <div class="project-card">
+                    <h3>HYIP Investment Platform</h3>
+                    <p>Blockchain-based investment platform</p>
+                </div>
+                <div class="project-card">
+                    <h3>Wishpernet</h3>
+                    <p>Innovative blockchain solution</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="github-stats">
+            <h2>📊 GitHub Analytics</h2>
+            <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nectariferous&layout=compact&langs_count=8&theme=radical" alt="Top Languages">
+        </section>
+
+        <section class="aspirations">
+            <h2>🌠 Aspirations</h2>
+            <ul>
+                <li>Blockchain Mastery
+                    <ul>
+                        <li>Smart Contract Development</li>
+                        <li>DeFi Innovations</li>
+                        <li>Layer 2 Solutions</li>
+                    </ul>
+                </li>
+                <li>Ethical Hacking
+                    <ul>
+                        <li>Penetration Testing</li>
+                        <li>Blockchain Security Audits</li>
+                        <li>Zero-Knowledge Proofs</li>
+                    </ul>
+                </li>
+                <li>Full-Stack Development
+                    <ul>
+                        <li>Web3 Integration</li>
+                        <li>Scalable Architecture</li>
+                        <li>UI/UX Design</li>
+                    </ul>
+                </li>
+            </ul>
+        </section>
+
+        <section class="security-focus">
+            <h2>🛡️ Blockchain Security Focus</h2>
+            <table>
+                <tr>
+                    <th>Area</th>
+                    <th>Skills</th>
+                </tr>
+                <tr>
+                    <td>Smart Contract Auditing</td>
+                    <td>Vulnerability Assessment, Best Practices Implementation</td>
+                </tr>
+                <tr>
+                    <td>DeFi Security</td>
+                    <td>Liquidity Pool Analysis, Flash Loan Attack Prevention</td>
+                </tr>
+                <tr>
+                    <td>Wallet Security</td>
+                    <td>Key Management, Hardware Wallet Integration</td>
+                </tr>
+                <tr>
+                    <td>Network Security</td>
+                    <td>Node Hardening, Consensus Mechanism Analysis</td>
+                </tr>
+            </table>
+        </section>
+
+        <section class="connect">
+            <h2>🤝 Connect & Collaborate</h2>
+            <div class="connect-buttons">
+                <a href="https://github.com/nectariferous" class="connect-button">GitHub</a>
+                <a href="https://t.me/nectariferous" class="connect-button">Telegram</a>
+            </div>
+        </section>
+
+        <section class="support">
+            <h2>💖 Support My Work</h2>
+            <p>If you find value in my projects or want to support my learning journey:</p>
+            <div class="eth-address">ETH: 0x3A06322e9F1124F6B2de8F343D4FDce4D1009869</div>
+        </section>
+    </div>
+
+    <footer>
+        <p>© 2023 Nectariferous. All rights reserved.</p>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var typed = new Typed('#typed-text', {
+                strings: ['Exploring the Blockchain Frontier', 'Securing the Digital Realm', 'Innovating for the Future'],
+                typeSpeed: 50,
+                backSpeed: 30,
+                backDelay: 1000,
+                loop: true
+            });
+        });
+    </script>
+</body>
+</html>
