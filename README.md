@@ -26,7 +26,6 @@
   <img src="https://komarev.com/ghpvc/?username=nectariferous&color=2ECC40&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 </p>
 
-<h2 align="center">🌟 Professional Expertise</h2>
 
 <table align="center">
   <tr>
@@ -99,10 +98,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=github-dark-blue" alt="GitHub Streak">
-  <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313sibgqhe4f24zo7hlejvadex6y&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313sibgqhe4f24zo7hlejvadex6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing">
   </a>
 </p>
 
@@ -172,8 +167,6 @@
 
 # Live Updates from Telegram
 
-<div class="telegram-post-widget" data-telegram-post="Telegram/5"></div>
-<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-post="Telegram/5"></script>
 
 <p align="center">
   <strong>Powered by <a href="https://t.me/+P9aWGQZoD6MyNGM1">➤VorTex Network™</a></strong>
