@@ -1,24 +1,42 @@
-name: 💝 GitHub Sponsorships
+name: Metrics
 on:
-  schedule: # Run at least once a day
-    - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
   workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
-      - name: 💝 GitHub Sponsorships
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '14'
+
+      - name: Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.sponsorships.svg
-          token: ${{ secrets.TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_sponsorships: yes
           plugin_sponsorships_sections: amount,sponsorships
           plugin_sponsorships_size: 24
+          config_display: columns
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git commit -m "Updated metrics"
+          git push
