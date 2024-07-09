@@ -56,39 +56,33 @@
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
-<h3 align="center">Languages</h3>
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Ethereum" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" alt="Web3.js" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/Binance_Smart_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white" alt="Binance Smart Chain" style="border: 2px solid #2ECC40; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-</p>
+### Languages & Frameworks
 
-
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)]()
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]() 
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
+[![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)]()
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
+[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
+### Databases & Tools
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)]()
+[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
+[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()   
 <h2 align="center">🏆 GitHub Accomplishments & ✨ Featured Projects</h2>
 
 <p align="center">
