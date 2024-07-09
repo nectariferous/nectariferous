@@ -15,6 +15,19 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+Nectariferous'+Realm;Blockchain+%7C+Ethical+Hacking+%7C+API;Innovate+%7C+Create+%7C+Secure" alt="Typing SVG">
   </a>
 </h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM5OTQ5NzMyYzM1NDQ1NDBlMGNhZGU5NGIyYjY1ZDA1NDJkZDJlNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="500">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/nectariferous?label=Followers&style=for-the-badge&color=2ECC40" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/nectariferous?label=Stars&style=for-the-badge&color=2ECC40" alt="GitHub Stars">
+  <img src="https://komarev.com/ghpvc/?username=nectariferous&color=2ECC40&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+</p>
+
+<h2 align="center">🌟 Professional Expertise</h2>
+
 <table align="center">
   <tr>
     <td align="center" width="33%">
@@ -39,20 +52,7 @@
       <i>Pioneering cutting-edge applications</i>
     </td>
   </tr>
-  <tr>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM5OTQ5NzMyYzM1NDQ1NDBlMGNhZGU5NGIyYjY1ZDA1NDJkZDJlNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="500">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/nectariferous?label=Followers&style=for-the-badge&color=2ECC40" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/nectariferous?label=Stars&style=for-the-badge&color=2ECC40" alt="GitHub Stars">
-  <img src="https://komarev.com/ghpvc/?username=nectariferous&color=2ECC40&style=for-the-badge&label=Profile+Views" alt="Profile Views">
-</p>
-
-
-
-
+</table>
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
@@ -92,7 +92,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark" alt="GitHub Stats">
-  </a>
 </p>
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -148,19 +147,22 @@
 <h3 align="center">Thank you for exploring my digital realm! 🌟</h3>
 <p align="center">Feel free to reach out if you'd like to connect, collaborate, or discuss innovative ideas!</p>
 
-# Cryptocurrency Prices
+<h2 align="center">Cryptocurrency Prices</h2>
+<p align="center">
+  <img src="BTC.png" alt="Bitcoin Price">
+  <img src="ETH.png" alt="Ethereum Price">
+  <img src="LTC.png" alt="Litecoin Price">
+</p>
 
-![Bitcoin Price](BTC.png)
-![Ethereum Price](ETH.png)
-![Litecoin Price](LTC.png)
+<h2 align="center">Donation Trackers</h2>
+<p align="center">
+  <img src="ETH_donations.png" alt="ETH Donations">
+  <img src="BNB_donations.png" alt="BNB Donations">
+</p>
 
-# Donation Trackers
-
-![ETH Donations](ETH_donations.png)
-![BNB Donations](BNB_donations.png)
-
-# Live Updates from Telegram
-
+<h2 align="center">Live Updates from Telegram</h2>
+<div class="telegram-post-widget" data-telegram-post="Telegram/5"></div>
+<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-post="Telegram/5"></script>
 
 <p align="center">
   <strong>Powered by <a href="https://t.me/+P9aWGQZoD6MyNGM1">➤VorTex Network™</a></strong>
