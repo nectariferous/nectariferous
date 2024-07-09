@@ -1,54 +1,66 @@
+<div align="center">
+
+# NECTARIFEROUS
+
+![Neon Divider](https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00ffff&height=2&section=header)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Blockchain+Explorer;Code+Alchemist;Digital+Frontier+Scout)](https://git.io/typing-svg)
+
+</div>
+
+## `Core_Systems.init()`
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Nectariferous"
+        self.role = "Aspiring Blockchain Developer & Ethical Hacker"
+        self.language_spoken = ["Python", "Solidity", "JavaScript"]
+        self.tools = ["Ethereum", "Web3.js", "Truffle", "Metasploit"]
+
+    def say_hi(self):
+        print("Thanks for dropping by, fellow digital explorer!")
+
+me = Developer()
+me.say_hi()
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│             N E C T A R I F E R O U S  ∴  D E V E L O P E R          │
-│                                                                      │
-│        ╔╗╔═╗╔═╗╔╦╗╔═╗╔╦╗╔═╗╔╦╗╔═╗  ╔╦╗╦═╗╔═╗╔╗╔╔═╗╔╦╗╦╔╦╗╔╦╗╔═╗╔═╗    │
-│        ║║║╣ ║   ║ ╠═╣ ║ ╠═╣ ║║╠═╣   ║ ╠╦╝╠═╣║║║╚═╗║║║║ ║ ║║║╠═╣╚═╗    │
-│        ╝╚╚═╝╚═╝ ╩ ╩ ╩ ╩ ╩ ╩═╩╝╩ ╩   ╩ ╩╚═╩ ╩╝╚╝╚═╝╩ ╩╩═╩═╩ ╩╩ ╩╚═╝    │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
 
- [̲̅B][̲̅L][̲̅O][̲̅C][̲̅K][̲̅C][̲̅H][̲̅A][̲̅I][̲̅N] | [̲̅E][̲̅T][̲̅H][̲̅I][̲̅C][̲̅A][̲̅L] [̲̅H][̲̅A][̲̅C][̲̅K][̲̅I][̲̅N][̲̅G]
+## `Tech_Matrix.load()`
 
-▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀
+<div align="center">
 
-     ╔═══════════════╗            ╔═══════════════╗
-     ║ LEARNING NODE ║            ║  SKILL TREE   ║
-     ╠═══════════════╣            ╠═══════════════╣
-     ║ ■ BLOCKCHAIN  ║            ║ ▓▓▓▓▓░░░░░░░░ ║
-     ║ ■ SOLIDITY    ║            ║ ▓▓▓░░░░░░░░░░ ║
-     ║ ■ JAVASCRIPT  ║            ║ ▓▓▓▓░░░░░░░░░ ║
-     ║ ■ PYTHON      ║            ║ ▓▓░░░░░░░░░░░ ║
-     ╚═══════════════╝            ╚═══════════════╝
+![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&color=ff00ff)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&color=00ffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=ff00ff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=00ffff)
 
-▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄▀▄
+</div>
 
-┌─────────────────────────┐  ┌─────────────────────────┐
-│   MISSION OBJECTIVES    │  │    DEVELOPER ARSENAL    │
-├─────────────────────────┤  ├─────────────────────────┤
-│ ◉ First DApp Launch     │  │ ⚙️ Ethereum             │
-│ ◉ Smart Contract Audit  │  │ ⚙️ Solidity             │
-│ ◉ Cybersecurity Mastery │  │ ⚙️ Python               │
-│ ◉ Blockchain Innovation │  │ ⚙️ JavaScript           │
-└─────────────────────────┘  └─────────────────────────┘
+## `Mission_Objectives.display()`
 
-     ┌───────────────────────────────────────────────┐
-     │                 TRANSMISSION                  │
-     ├───────────────────────────────────────────────┤
-     │ CONNECT WITH THIS UNIT FOR COLLABORATION:     │
-     │                                               │
-     │ [🌐] https://github.com/nectariferous         │
-     │ [💬] https://t.me/nectariferous               │
-     └───────────────────────────────────────────────┘
+- 🔮 Craft my first decentralized reality-bending app
+- 🧠 Hack the matrix (ethically, of course)
+- 🌐 Weave the threads of the new digital frontier
+- 🤖 Collaborate with fellow cybernetic enthusiasts
 
-╔════════════════════════════════════════════════════════╗
-║  SUPPORT INTERSTELLAR DEVELOPMENT MISSION:             ║
-║  ETH: 0x3A06322e9F1124F6B2de8F343D4FDce4D1009869       ║
-╚════════════════════════════════════════════════════════╝
+## `Connect.establish()`
 
-        .  　   ✦  ˚ 　. ✦   ✦   . *     *   ✦ 　 ·.    .
-  ✦ *   ·   ˚  *      *   .  · ✦ ✦ 　 ✦  . ⋆ ·  * ✦
-    ·    *  ✦  ✦   · . * . ˚ 　. ✦ ✦ 　 ✦  . ⋆ · *   *
- · ✦ ✦  ✦  　 ·     · . * . ˚ 　. ✦ ✦ 　 ✦  . ⋆    * 
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=ff00ff)](https://t.me/nectariferous)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=00ffff)](https://github.com/nectariferous)
+
+</div>
+
+## `Support_Portal.open()`
+
+```javascript
+// Your digital credits fuel my cybernetic enhancements
+const supportAddress = "0x3A06322e9F1124F6B2de8F343D4FDce4D1009869";
 ```
+
+<div align="center">
+
+![Neon Divider](https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=footer)
+
+</div>
