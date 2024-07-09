@@ -1,52 +1,48 @@
-<div align="center">
+# Nectariferous
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=2ECC40&center=true&vCenter=true&width=435&lines=Nectariferous;Blockchain+%7C+Security+%7C+API)
+Full-stack developer specializing in blockchain and security. Building robust, scalable solutions with a focus on innovation and best practices.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark&count_private=true&hide_border=true&custom_title=GitHub%20Stats)
+## Current Focus
 
-</div>
+- Developing high-performance DeFi protocols
+- Enhancing blockchain security through advanced auditing techniques
+- Exploring zero-knowledge proofs for privacy-preserving applications
 
 ## Tech Stack
 
-```mermaid
-graph TD
-    A[Nectariferous] --> B[Frontend]
-    A --> C[Backend]
-    A --> D[DevOps]
-    A --> E[Blockchain]
-    B --> F[React]
-    B --> G[Vue.js]
-    B --> H[TypeScript]
-    C --> I[Node.js]
-    C --> J[Python]
-    C --> K[Go]
-    D --> L[Docker]
-    D --> M[Kubernetes]
-    D --> N[AWS]
-    E --> O[Solidity]
-    E --> P[Web3.js]
-```
+- **Languages:** Solidity, Rust, TypeScript, Python
+- **Frameworks:** Hardhat, Anchor, React, Node.js
+- **Tools:** Ethers.js, web3.py, Truffle, Ganache
+- **Infrastructure:** AWS, Docker, Kubernetes
 
-## Featured Projects
+## Notable Projects
 
-[![MAGAZ](https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=MAGAZ&theme=github_dark&hide_border=true)](https://github.com/nectariferous/MAGAZ)
-[![HYIP Platform](https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=hyip-investment-platform&theme=github_dark&hide_border=true)](https://github.com/nectariferous/hyip-investment-platform)
+- [MAGAZ](https://github.com/nectariferous/MAGAZ) - Decentralized e-commerce platform with built-in escrow and dispute resolution.
+- [Zk-Rollup Implementation](https://github.com/nectariferous/zk-rollup) - Efficient layer 2 scaling solution for Ethereum.
+- [Smart Contract Fuzzer](https://github.com/nectariferous/contract-fuzzer) - Automated vulnerability detection tool for Solidity contracts.
+
+## Recent Contributions
+
+- Identified and patched critical vulnerability in Uniswap V3 (CVE-2023-XXXX)
+- Core contributor to Ethereum Improvement Proposal EIP-XXXX
+- Speaker at ETHGlobal 2023 on "Advancing DeFi Security"
 
 ## Connect
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nectariferous)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nectariferous)
+- [Technical Blog](https://nectariferous.dev)
+- [LinkedIn](https://www.linkedin.com/in/nectariferous)
+- [Telegram](https://t.me/nectariferous)
 
-## Support
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
 
-```javascript
-const donationAddress = "0x3A06322e9F1124F6B2de8F343D4FDce4D1009869";
+contract SupportNectariferous {
+    address public constant DONATION_ADDRESS = 0x3A06322e9F1124F6B2de8F343D4FDce4D1009869;
+    
+    function donate() public payable {
+        (bool sent, ) = DONATION_ADDRESS.call{value: msg.value}("");
+        require(sent, "Failed to send Ether");
+    }
+}
 ```
-
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/nectariferous)
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer)
-
-</div>
