@@ -1,48 +1,41 @@
 # Nectariferous
 
-Full-stack developer specializing in blockchain and security. Building robust, scalable solutions with a focus on innovation and best practices.
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/nectariferous)
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-30363D?style=flat-square&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/nectariferous)
 
-## Current Focus
-
-- Developing high-performance DeFi protocols
-- Enhancing blockchain security through advanced auditing techniques
-- Exploring zero-knowledge proofs for privacy-preserving applications
+Blockchain | Ethical Hacking | API Development
 
 ## Tech Stack
 
-- **Languages:** Solidity, Rust, TypeScript, Python
-- **Frameworks:** Hardhat, Anchor, React, Node.js
-- **Tools:** Ethers.js, web3.py, Truffle, Ganache
-- **Infrastructure:** AWS, Docker, Kubernetes
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
-## Notable Projects
+### Tools & Platforms
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-- [MAGAZ](https://github.com/nectariferous/MAGAZ) - Decentralized e-commerce platform with built-in escrow and dispute resolution.
-- [Zk-Rollup Implementation](https://github.com/nectariferous/zk-rollup) - Efficient layer 2 scaling solution for Ethereum.
-- [Smart Contract Fuzzer](https://github.com/nectariferous/contract-fuzzer) - Automated vulnerability detection tool for Solidity contracts.
+## Featured Projects
 
-## Recent Contributions
+- [MAGAZ](https://github.com/nectariferous/MAGAZ) - Decentralized e-commerce platform
+- [HYIP Investment Platform](https://github.com/nectariferous/hyip-investment-platform) - Blockchain-based investment platform
 
-- Identified and patched critical vulnerability in Uniswap V3 (CVE-2023-XXXX)
-- Core contributor to Ethereum Improvement Proposal EIP-XXXX
-- Speaker at ETHGlobal 2023 on "Advancing DeFi Security"
+## GitHub Stats
 
-## Connect
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark&count_private=true&hide_border=true)
 
-- [Technical Blog](https://nectariferous.dev)
-- [LinkedIn](https://www.linkedin.com/in/nectariferous)
-- [Telegram](https://t.me/nectariferous)
+## Support
 
-```solidity
-// SPDX-License-Identifier: MIT
-pragma solidity ^0.8.0;
+ETH/BNB: `0x3A06322e9F1124F6B2de8F343D4FDce4D1009869`
 
-contract SupportNectariferous {
-    address public constant DONATION_ADDRESS = 0x3A06322e9F1124F6B2de8F343D4FDce4D1009869;
-    
-    function donate() public payable {
-        (bool sent, ) = DONATION_ADDRESS.call{value: msg.value}("");
-        require(sent, "Failed to send Ether");
-    }
-}
-```
+[View on Etherscan](https://etherscan.io/address/0x3A06322e9F1124F6B2de8F343D4FDce4D1009869) | [View on BSCScan](https://bscscan.com/address/0x3A06322e9F1124F6B2de8F343D4FDce4D1009869)
+
+---
+
+Powered by [VorTex Network™](https://t.me/+P9aWGQZoD6MyNGM1)
