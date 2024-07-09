@@ -55,7 +55,7 @@ def generate_donation_image(symbol, balance):
     donation_image = Image.new("RGBA", (width, height))
     donation_image.paste(background)
 
-    font = ImageFont.truetype("arial.ttf", 50)
+    font = ImageFont.load_default()
     text = f"{symbol} Donations: {balance}"
     position = (30, 80)
     glow_color = (255, 255, 255, 150)
