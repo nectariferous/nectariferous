@@ -11,6 +11,35 @@
   <img src="https://img.shields.io/github/stars/nectariferous?label=Stars&style=for-the-badge&color=2ECC40" alt="GitHub Stars">
   <img src="https://komarev.com/ghpvc/?username=nectariferous&color=2ECC40&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 </p>
+<h2 align="center">🌇 GitHub Skyline</h2>
+<p align="center">
+  <a href="https://skyline.github.com/nectariferous/2023">
+    <img src="https://github.com/nectariferous/nectariferous/assets/your-asset-id/github-skyline.gif" alt="nectariferous's GitHub Skyline" width="600">
+  </a>
+</p>
+<p align="center">
+  <em>View my contributions in 3D! Click the image to explore interactively.</em>
+</p>
+<h2 align="center">🗳️ LeetCode Stats</h2>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/nectariferous?theme=dark&font=Syne%20Mono" alt="nectariferous's LeetCode Stats">
+</p>
+<h2 align="center">📊 Detailed GitHub Metrics</h2>
+<p align="center">
+  <img src="https://metrics.lecoq.io/nectariferous?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FNew_York" alt="Detailed GitHub Metrics">
+</p>
+<h2 align="center">🏆 GitHub Achievements</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="nectariferous's GitHub Achievements">
+</p>
+<h2 align="center">📈 Contribution Graph</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nectariferous&theme=react-dark&hide_border=true&area=true" alt="nectariferous's Contribution Graph">
+</p>
+<h2 align="center">🐍 Contribution Snake</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nectariferous/nectariferous/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p>
 
 <h2 align="center">🚀 Professional Expertise</h2>
 
@@ -100,9 +129,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
 
-  <h1>💝 GitHub Sponsorships</h1>
-  <img src="./metrics.plugin.sponsorships.svg" alt="GitHub Sponsorships">
-</div>
 
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
