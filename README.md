@@ -12,7 +12,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+Nectariferous'+Realm;Blockchain+%7C+Ethical+Hacking+%7C+API;Innovate+%7C+Create+%7C+Secure" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+Nectariferous';Blockchain+%7C+Ethical+Hacking+%7C+API;Innovate+%7C+Create+%7C+Secure" alt="Typing SVG">
   </a>
 </h1>
 
