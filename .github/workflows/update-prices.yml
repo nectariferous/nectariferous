@@ -28,4 +28,4 @@ jobs:
           git config --global user.email 'github-actions@github.com'
           git add README.md BTC.png ETH.png LTC.png ETH_donations.png BNB_donations.png crypto_prices.gif transactions_graph.png
           git commit -m "Update cryptocurrency prices and donation balances"
-          git push
+          git push 
