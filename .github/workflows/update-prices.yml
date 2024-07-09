@@ -8,7 +8,7 @@ on:
       - main
 
 jobs:
-  update-prices:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
@@ -17,14 +17,15 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
-      - name: Install requests
-        run: pip install requests
-      - name: Update prices
+      - name: Install dependencies
+        run: |
+          pip install requests pillow matplotlib
+      - name: Update README
         run: python update-prices.py
       - name: Commit and push changes
         run: |
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
-          git add README.md
-          git commit -m "Update cryptocurrency prices"
+          git add README.md BTC.png ETH.png LTC.png ETH_donations.png BNB_donations.png crypto_prices.gif transactions_graph.png
+          git commit -m "Update cryptocurrency prices and donation balances"
           git push
