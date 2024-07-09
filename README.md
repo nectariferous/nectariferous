@@ -1,5 +1,7 @@
+# Enhanced GitHub README
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+Nectariferous'+Realm;Blockchain+%7C+Ethical+Hacking+%7C+API;Innovate+%7C+Create+%7C+Secure" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+Nectariferous'+Realm;Blockchain+%7C+Ethical+Hacking+%7C+API;Innovate+%7C+Create+%7C+Secure" alt="Typing SVG" /></a>
 </h1>
 
 <p align="center">
@@ -11,37 +13,8 @@
   <img src="https://img.shields.io/github/stars/nectariferous?label=Stars&style=for-the-badge&color=2ECC40" alt="GitHub Stars">
   <img src="https://komarev.com/ghpvc/?username=nectariferous&color=2ECC40&style=for-the-badge&label=Profile+Views" alt="Profile Views">
 </p>
-<h2 align="center">🌇 GitHub Skyline</h2>
-<p align="center">
-  <a href="https://skyline.github.com/nectariferous/2023">
-    <img src="https://github.com/nectariferous/nectariferous/assets/your-asset-id/github-skyline.gif" alt="nectariferous's GitHub Skyline" width="600">
-  </a>
-</p>
-<p align="center">
-  <em>View my contributions in 3D! Click the image to explore interactively.</em>
-</p>
-<h2 align="center">🗳️ LeetCode Stats</h2>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/nectariferous?theme=dark&font=Syne%20Mono" alt="nectariferous's LeetCode Stats">
-</p>
-<h2 align="center">📊 Detailed GitHub Metrics</h2>
-<p align="center">
-  <img src="https://metrics.lecoq.io/nectariferous?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FNew_York" alt="Detailed GitHub Metrics">
-</p>
-<h2 align="center">🏆 GitHub Achievements</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true" alt="nectariferous's GitHub Achievements">
-</p>
-<h2 align="center">📈 Contribution Graph</h2>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nectariferous&theme=react-dark&hide_border=true&area=true" alt="nectariferous's Contribution Graph">
-</p>
-<h2 align="center">🐍 Contribution Snake</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nectariferous/nectariferous/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
-</p>
 
-<h2 align="center">🚀 Professional Expertise</h2>
+<h2 align="center">🌟 Professional Expertise</h2>
 
 <table align="center">
   <tr>
@@ -129,7 +102,6 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
 </p>
 
-
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -147,25 +119,50 @@
   <img src="https://img.shields.io/badge/Binance_Smart_Chain-F0B90B?style=for-the-badge&logo=binance&logoColor=white" alt="Binance Smart Chain">
 </p>
 
-<div align="center">
-  <h1>📊 GitHub Stats</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&theme=chartreuse-dark&hide_border=false&include_all_commits=true" alt="GitHub Stats"><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=chartreuse-dark&hide_border=false" alt="GitHub Streak Stats"><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nectariferous&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+<h2 align="center">📊 GitHub Stats & Achievements</h2>
 
-  <h1>🏆 GitHub Trophies</h1>
-  <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies">
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark" alt="nectariferous's GitHub stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=github-dark-blue" alt="nectariferous's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=darkhub&no-frame=true&row=1&column=7" alt="nectariferous's GitHub Trophies" />
+</p>
+
+<h2 align="center">🗳️ LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=nectariferous&theme=dark" alt="nectariferous's LeetCode Stats" />
+</p>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nectariferous&theme=react-dark" alt="nectariferous's Contribution Graph" />
+</p>
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nectariferous/nectariferous/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nectariferous/nectariferous/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nectariferous/nectariferous/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
   <a href="https://github.com/nectariferous/MAGAZ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=MAGAZ&theme=radical" alt="MAGAZ Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=MAGAZ&theme=github_dark" alt="MAGAZ Project">
   </a>
   <a href="https://github.com/nectariferous/hyip-investment-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=hyip-investment-platform&theme=radical" alt="Blockchain Explorer Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=hyip-investment-platform&theme=github_dark" alt="Blockchain Explorer Project">
   </a>
 </p>
 
@@ -191,17 +188,13 @@
     <img src="https://img.shields.io/badge/BNB-View_on_BSCScan-F3BA2F?style=for-the-badge&logo=binance" alt="View BNB on BSCScan">
   </a>
 </p>
-
 <h2 align="center">🌐 Connect with Me</h2>
-
 <p align="center">
   <a href="https://t.me/nectariferous"><img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel"></a>
 </p>
-
 <h3 align="center">Thank you for exploring my digital realm! 🌟</h3>
 <p align="center">Feel free to reach out if you'd like to connect, collaborate, or discuss innovative ideas!</p>
-
 <p align="center">
   <strong>Powered by <a href="https://t.me/+P9aWGQZoD6MyNGM1">➤VorTex Network™</a></strong>
 </p>
@@ -209,5 +202,9 @@
   © 2023 Nectariferous. All rights reserved.
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Living%20the%20dream%20city!&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%" alt="Footer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Living%20the%20dream%20city!&fontSize=24&fontAlignY=65&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Living%20the%20dream%20city!&fontSize=24&fontAlignY=65&animation=fadeIn">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Living%20the%20dream%20city!&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%" alt="Footer">
+  </picture>
 </p>
