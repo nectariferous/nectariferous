@@ -1,87 +1,84 @@
 import requests
 import json
-from PIL import Image, ImageDraw, ImageFont, ImageFilter
+import os
+import matplotlib.pyplot as plt
+import matplotlib.animation as animation
+from PIL import Image, ImageDraw, ImageFont
 
 # Fetch cryptocurrency prices
-def fetch_crypto_prices():
-    price_url = "https://price.api.cx.metamask.io/v1/exchange-rates?baseCurrency=usd"
-    try:
-        price_response = requests.get(price_url)
-        price_response.raise_for_status()  # Raises an HTTPError for bad responses
-        return price_response.json()
-    except requests.RequestException as e:
-        print(f"Error fetching prices: {e}")
-        return None
+price_url = "https://price.api.cx.metamask.io/v1/exchange-rates?baseCurrency=usd"
+price_response = requests.get(price_url)
+price_data = price_response.json()
 
-# Fetch cryptocurrency account balances
-def fetch_crypto_balances(account):
-    donation_url = f"https://accounts.api.cx.metamask.io/v2/accounts/{account}/balances?networks=1%2C10%2C56%2C137%2C8453%2C59144&includeUnverifiedAssets=true&filterSupportedTokens=true"
-    try:
-        donation_response = requests.get(donation_url)
-        donation_response.raise_for_status()
-        return donation_response.json()
-    except requests.RequestException as e:
-        print(f"Error fetching balances: {e}")
-        return None
+# Fetch donation balances
+donation_url = "https://accounts.api.cx.metamask.io/v2/accounts/0x3a06322e9f1124f6b2de8f343d4fdce4d1009869/balances?networks=1%2C10%2C56%2C137%2C8453%2C59144&includeUnverifiedAssets=true&filterSupportedTokens=true"
+donation_response = requests.get(donation_url)
+donation_data = donation_response.json()
 
-# Generate a gradient background
-def generate_gradient_background(width, height, top_color, bottom_color):
-    background = Image.new('RGB', (width, height), "black")
-    draw = ImageDraw.Draw(background)
-    for i in range(height):
-        r = top_color[0] + (bottom_color[0] - top_color[0]) * i / height
-        g = top_color[1] + (bottom_color[1] - top_color[1]) * i / height
-        b = top_color[2] + (bottom_color[2] - top_color[2]) * i / height
-        draw.line([(0, i), (width, i)], fill=(int(r), int(g), int(b)))
-    return background
+# Generate cryptocurrency price images
+def generate_price_image(ticker, value):
+    image = Image.new('RGB', (200, 60), color = (73, 109, 137))
+    draw = ImageDraw.Draw(image)
+    font = ImageFont.truetype("arial.ttf", 24)
+    draw.text((10, 10), f"{ticker}: {value}", font=font, fill=(255, 255, 255))
+    image.save(f"{ticker}.png")
 
-# Apply text effects for glow and shadow
-def apply_text_effects(draw, text, position, font, glow_color, shadow_color):
-    x, y = position
-    glow_radius = 10
-    # Shadow
-    draw.text((x + 2, y + 2), text, font=font, fill=shadow_color)
-    # Glow
-    for offset in range(-glow_radius, glow_radius + 1):
-        draw.text((x + offset, y + offset), text, font=font, fill=glow_color)
+generate_price_image("BTC", price_data['btc']['value'])
+generate_price_image("ETH", price_data['eth']['value'])
+generate_price_image("LTC", price_data['ltc']['value'])
 
-# Generate an advanced donation image
+# Generate donation balance images
 def generate_donation_image(symbol, balance):
-    width, height = 500, 200
-    top_color = (0, 156, 215)  # Light blue top
-    bottom_color = (0, 31, 63)  # Dark blue bottom
+    image = Image.new('RGB', (300, 60), color = (73, 109, 137))
+    draw = ImageDraw.Draw(image)
+    font = ImageFont.truetype("arial.ttf", 24)
+    draw.text((10, 10), f"{symbol} Donations: {balance}", font=font, fill=(255, 255, 255))
+    image.save(f"{symbol}_donations.png")
 
-    background = generate_gradient_background(width, height, top_color, bottom_color)
-    donation_image = Image.new("RGBA", (width, height))
-    donation_image.paste(background)
+generate_donation_image("ETH", donation_data['balances'][1]['balance'])
+generate_donation_image("BNB", donation_data['balances'][6]['balance'])
 
-    font = ImageFont.load_default()
-    text = f"{symbol} Donations: {balance}"
-    position = (30, 80)
-    glow_color = (255, 255, 255, 150)
-    shadow_color = (0, 0, 0, 180)
-
-    draw = ImageDraw.Draw(donation_image)
-    apply_text_effects(draw, text, position, font, glow_color, shadow_color)
-    draw.text(position, text, font=font, fill="white")
-
-    donation_image.save(f"{symbol}_donation_ultra.png")
-
-# Main function to orchestrate calls
-def main():
-    # Replace '<YOUR_METAMASK_ACCOUNT>' with your actual MetaMask account ID
-    account_id = "0x3A06322e9F1124F6B2de8F343D4FDce4D1009869"
-    crypto_data = fetch_crypto_prices()
-    balances_data = fetch_crypto_balances(account_id)
+# Generate GIF for cryptocurrency prices
+def generate_price_gif(price_data):
+    fig, ax = plt.subplots()
+    ax.set_xlim(0, 10)
+    ax.set_ylim(0, 100)
+    ax.set_title('Cryptocurrency Prices')
     
-    if crypto_data and balances_data:
-        # Generate images for BTC, ETH, LTC or other cryptocurrencies listed in your balance
-        for balance in balances_data.get('balances', []):
-            symbol = balance.get('asset_symbol', 'UNKNOWN')
-            amount = balance.get('balance', '0')
-            generate_donation_image(symbol, amount)
-    else:
-        print("Failed to fetch data or generate images")
+    bars = ax.bar(['BTC', 'ETH', 'LTC'], [price_data['btc']['value'] * 1000, price_data['eth']['value'] * 1000, price_data['ltc']['value'] * 1000])
+    
+    def animate(i):
+        for bar, value in zip(bars, [price_data['btc']['value'] * 1000, price_data['eth']['value'] * 1000, price_data['ltc']['value'] * 1000]):
+            bar.set_height(value + i)
+    
+    ani = animation.FuncAnimation(fig, animate, frames=10, repeat=False)
+    ani.save('crypto_prices.gif', writer='imagemagick')
 
-if __name__ == "__main__":
-    main()
+generate_price_gif(price_data)
+
+# Fetch transactions
+transaction_url_eth = "https://account.api.cx.metamask.io/networks/1/accounts/0x3a06322e9f1124f6b2de8f343d4fdce4d1009869/transactions"
+transaction_response_eth = requests.get(transaction_url_eth)
+transactions_eth = transaction_response_eth.json()['data']
+
+transaction_url_bsc = "https://account.api.cx.metamask.io/networks/56/accounts/0x3a06322e9f1124f6b2de8f343d4fdce4d1009869/transactions"
+transaction_response_bsc = requests.get(transaction_url_bsc)
+transactions_bsc = transaction_response_bsc.json()['data']
+
+# Generate stylish graph for transactions
+def generate_transaction_graph(transactions_eth, transactions_bsc):
+    eth_values = [tx['valueDisplay'] for tx in transactions_eth[:10]]
+    bsc_values = [tx['valueDisplay'] for tx in transactions_bsc[:10]]
+    
+    fig, ax = plt.subplots()
+    ax.plot(range(len(eth_values)), eth_values, label='ETH', color='b')
+    ax.plot(range(len(bsc_values)), bsc_values, label='BSC', color='g')
+    
+    ax.set_xlabel('Transaction Index')
+    ax.set_ylabel('Value')
+    ax.set_title('Recent Transactions')
+    ax.legend()
+    
+    plt.savefig('transactions_graph.png')
+
+generate_transaction_graph(transactions_eth, transactions_bsc)
