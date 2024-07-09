@@ -145,27 +145,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=darkhub&no-frame=true&row=1&column=7" alt="nectariferous's GitHub Trophies" />
 </p>
 
-<h2 align="center">🗳️ LeetCode Stats</h2>
-
-<p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=nectariferous&theme=dark" alt="nectariferous's LeetCode Stats" />
-</p>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nectariferous&theme=react-dark" alt="nectariferous's Contribution Graph" />
-</p>
-
-<h2 align="center">🐍 Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nectariferous/nectariferous/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nectariferous/nectariferous/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nectariferous/nectariferous/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313sibgqhe4f24zo7hlejvadex6y&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313sibgqhe4f24zo7hlejvadex6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
 
 <h2 align="center">🚀 Featured Projects</h2>
 
