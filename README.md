@@ -114,16 +114,9 @@
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark" alt="nectariferous's GitHub stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=github-dark-blue" alt="nectariferous's GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=darkhub&no-frame=true&row=1&column=7" alt="nectariferous's GitHub Trophies">
-</p>
-
-<h2 align="center">🎵 Spotify</h2>
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark" alt=" ">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=github-dark-blue" alt="">
+  <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=darkhub&no-frame=true&row=1&column=7" alt="">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313sibgqhe4f24zo7hlejvadex6y&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313sibgqhe4f24zo7hlejvadex6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing">
   </a>
