@@ -6,7 +6,6 @@ on:
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
-
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -15,28 +14,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '14'
-
-      - name: Metrics
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_sponsorships: yes
-          plugin_sponsorships_sections: amount,sponsorships
-          plugin_sponsorships_size: 24
-          config_display: columns
-          
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add -A
-          git commit -m "Updated metrics"
-          git push
