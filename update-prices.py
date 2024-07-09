@@ -1,5 +1,9 @@
 import requests
 import json
+import os
+import matplotlib.pyplot as plt
+import matplotlib.animation as animation
+from PIL import Image, ImageDraw, ImageFont
 
 # Fetch cryptocurrency prices
 price_url = "https://price.api.cx.metamask.io/v1/exchange-rates?baseCurrency=usd"
@@ -11,24 +15,70 @@ donation_url = "https://accounts.api.cx.metamask.io/v2/accounts/0x3a06322e9f1124
 donation_response = requests.get(donation_url)
 donation_data = donation_response.json()
 
-# Create README.md content
-readme_content = f"""# Cryptocurrency Prices
+# Generate cryptocurrency price images
+def generate_price_image(ticker, value):
+    image = Image.new('RGB', (200, 60), color = (73, 109, 137))
+    draw = ImageDraw.Draw(image)
+    font = ImageFont.truetype("arial.ttf", 24)
+    draw.text((10, 10), f"{ticker}: {value}", font=font, fill=(255, 255, 255))
+    image.save(f"{ticker}.png")
 
-![Bitcoin Price](https://img.shields.io/badge/Bitcoin-{price_data['btc']['value']}-btc.svg?style=flat-square)
-![Ethereum Price](https://img.shields.io/badge/Ethereum-{price_data['eth']['value']}-eth.svg?style=flat-square)
-![Litecoin Price](https://img.shields.io/badge/Litecoin-{price_data['ltc']['value']}-ltc.svg?style=flat-square)
+generate_price_image("BTC", price_data['btc']['value'])
+generate_price_image("ETH", price_data['eth']['value'])
+generate_price_image("LTC", price_data['ltc']['value'])
 
-# Donation Trackers
+# Generate donation balance images
+def generate_donation_image(symbol, balance):
+    image = Image.new('RGB', (300, 60), color = (73, 109, 137))
+    draw = ImageDraw.Draw(image)
+    font = ImageFont.truetype("arial.ttf", 24)
+    draw.text((10, 10), f"{symbol} Donations: {balance}", font=font, fill=(255, 255, 255))
+    image.save(f"{symbol}_donations.png")
 
-![ETH Donations](https://img.shields.io/badge/ETH-{donation_data['balances'][1]['balance']}-eth.svg?style=flat-square)
-![BNB Donations](https://img.shields.io/badge/BNB-{donation_data['balances'][6]['balance']}-bnb.svg?style=flat-square)
+generate_donation_image("ETH", donation_data['balances'][1]['balance'])
+generate_donation_image("BNB", donation_data['balances'][6]['balance'])
 
-# Live Updates from Telegram
+# Generate GIF for cryptocurrency prices
+def generate_price_gif(price_data):
+    fig, ax = plt.subplots()
+    ax.set_xlim(0, 10)
+    ax.set_ylim(0, 100)
+    ax.set_title('Cryptocurrency Prices')
+    
+    bars = ax.bar(['BTC', 'ETH', 'LTC'], [price_data['btc']['value'] * 1000, price_data['eth']['value'] * 1000, price_data['ltc']['value'] * 1000])
+    
+    def animate(i):
+        for bar, value in zip(bars, [price_data['btc']['value'] * 1000, price_data['eth']['value'] * 1000, price_data['ltc']['value'] * 1000]):
+            bar.set_height(value + i)
+    
+    ani = animation.FuncAnimation(fig, animate, frames=10, repeat=False)
+    ani.save('crypto_prices.gif', writer='imagemagick')
 
-<div class="telegram-post-widget" data-telegram-post="Telegram/5"></div>
-<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-post="Telegram/5"></script>
-"""
+generate_price_gif(price_data)
 
-# Save to README.md file
-with open("README.md", "w") as file:
-    file.write(readme_content)
+# Fetch transactions
+transaction_url_eth = "https://account.api.cx.metamask.io/networks/1/accounts/0x3a06322e9f1124f6b2de8f343d4fdce4d1009869/transactions"
+transaction_response_eth = requests.get(transaction_url_eth)
+transactions_eth = transaction_response_eth.json()['data']
+
+transaction_url_bsc = "https://account.api.cx.metamask.io/networks/56/accounts/0x3a06322e9f1124f6b2de8f343d4fdce4d1009869/transactions"
+transaction_response_bsc = requests.get(transaction_url_bsc)
+transactions_bsc = transaction_response_bsc.json()['data']
+
+# Generate stylish graph for transactions
+def generate_transaction_graph(transactions_eth, transactions_bsc):
+    eth_values = [tx['valueDisplay'] for tx in transactions_eth[:10]]
+    bsc_values = [tx['valueDisplay'] for tx in transactions_bsc[:10]]
+    
+    fig, ax = plt.subplots()
+    ax.plot(range(len(eth_values)), eth_values, label='ETH', color='b')
+    ax.plot(range(len(bsc_values)), bsc_values, label='BSC', color='g')
+    
+    ax.set_xlabel('Transaction Index')
+    ax.set_ylabel('Value')
+    ax.set_title('Recent Transactions')
+    ax.legend()
+    
+    plt.savefig('transactions_graph.png')
+
+generate_transaction_graph(transactions_eth, transactions_bsc)
