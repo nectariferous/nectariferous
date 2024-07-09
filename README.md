@@ -1,66 +1,64 @@
 <div align="center">
 
-# NECTARIFEROUS
-
-![Neon Divider](https://capsule-render.vercel.app/api?type=rect&color=0:ff00ff,100:00ffff&height=2&section=header)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Blockchain+Explorer;Code+Alchemist;Digital+Frontier+Scout)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=200&section=header&text=NECTARIFEROUS&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%">
 
 </div>
 
-## `Core_Systems.init()`
+<div align="center">
+<a href="https://github.com/nectariferous"><img src="https://img.shields.io/badge/-Blockchain_Explorer-FF6B6B?style=for-the-badge&logoColor=white" alt="Blockchain Explorer"/></a>
+<a href="https://github.com/nectariferous"><img src="https://img.shields.io/badge/-Ethical_Hacker-4ECDC4?style=for-the-badge&logoColor=white" alt="Ethical Hacker"/></a>
+</div>
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Nectariferous"
-        self.role = "Aspiring Blockchain Developer & Ethical Hacker"
-        self.language_spoken = ["Python", "Solidity", "JavaScript"]
-        self.tools = ["Ethereum", "Web3.js", "Truffle", "Metasploit"]
+<br>
 
-    def say_hi(self):
-        print("Thanks for dropping by, fellow digital explorer!")
+<div align="center">
 
-me = Developer()
-me.say_hi()
+```mermaid
+graph TD
+    A[Nectariferous] --> B[Blockchain]
+    A --> C[Ethical Hacking]
+    B --> D[Ethereum]
+    B --> E[Solidity]
+    C --> F[Python]
+    C --> G[Network Security]
 ```
 
-## `Tech_Matrix.load()`
-
-<div align="center">
-
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white&color=ff00ff)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white&color=00ffff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=ff00ff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=00ffff)
-
 </div>
 
-## `Mission_Objectives.display()`
-
-- 🔮 Craft my first decentralized reality-bending app
-- 🧠 Hack the matrix (ethically, of course)
-- 🌐 Weave the threads of the new digital frontier
-- 🤖 Collaborate with fellow cybernetic enthusiasts
-
-## `Connect.establish()`
+<br>
 
 <div align="center">
-
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&color=ff00ff)](https://t.me/nectariferous)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&color=00ffff)](https://github.com/nectariferous)
-
+<img src="https://skillicons.dev/icons?i=ethereum,solidity,python,javascript&theme=light" alt="Skills">
 </div>
 
-## `Support_Portal.open()`
+<br>
 
-```javascript
-// Your digital credits fuel my cybernetic enhancements
-const supportAddress = "0x3A06322e9F1124F6B2de8F343D4FDce4D1009869";
-```
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="/api/placeholder/140/140" width="140" height="100" alt="Project 1">
+      <br>Project 1
+    </td>
+    <td align="center" width="140">
+      <img src="/api/placeholder/140/140" width="140" height="100" alt="Project 2">
+      <br>Project 2
+    </td>
+    <td align="center" width="140">
+      <img src="/api/placeholder/140/140" width="140" height="100" alt="Project 3">
+      <br>Project 3
+    </td>
+  </tr>
+</table>
+
+<br>
 
 <div align="center">
+<a href="https://t.me/nectariferous"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+<a href="https://github.com/nectariferous"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</div>
 
-![Neon Divider](https://capsule-render.vercel.app/api?type=rect&color=0:00ffff,100:ff00ff&height=2&section=footer)
+<br>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,100:FF6B6B&height=100&section=footer&text=Support:_0x3A06322e9F1124F6B2de8F343D4FDce4D1009869&fontSize=12&fontColor=FFFFFF&animation=fadeIn" width="100%">
 </div>
