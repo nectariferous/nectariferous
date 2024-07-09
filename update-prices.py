@@ -1,9 +1,8 @@
 import requests
 import json
-import os
+from PIL import Image, ImageDraw, ImageFont
 import matplotlib.pyplot as plt
 import matplotlib.animation as animation
-from PIL import Image, ImageDraw, ImageFont
 
 # Fetch cryptocurrency prices
 price_url = "https://price.api.cx.metamask.io/v1/exchange-rates?baseCurrency=usd"
@@ -20,7 +19,7 @@ def generate_price_image(ticker, value):
     image = Image.new('RGB', (200, 60), color = (73, 109, 137))
     draw = ImageDraw.Draw(image)
     font = ImageFont.truetype("arial.ttf", 24)
-    draw.text((10, 10), f"{ticker}: {value}", font=font, fill=(255, 255, 255))
+    draw.text((10, 10), f"{ticker}: {value:.8f}", font=font, fill=(255, 255, 255))
     image.save(f"{ticker}.png")
 
 generate_price_image("BTC", price_data['btc']['value'])
