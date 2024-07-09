@@ -158,6 +158,21 @@
 
 <h3 align="center">Thank you for exploring my digital realm! 🌟</h3>
 <p align="center">Feel free to reach out if you'd like to connect, collaborate, or discuss innovative ideas!</p>
+# Cryptocurrency Prices
+
+![Bitcoin Price](https://img.shields.io/badge/Bitcoin-{price_data['btc']['value']}-btc.svg?style=flat-square)
+![Ethereum Price](https://img.shields.io/badge/Ethereum-{price_data['eth']['value']}-eth.svg?style=flat-square)
+![Litecoin Price](https://img.shields.io/badge/Litecoin-{price_data['ltc']['value']}-ltc.svg?style=flat-square)
+
+# Donation Trackers
+
+![ETH Donations](https://img.shields.io/badge/ETH-{donation_data['balances'][1]['balance']}-eth.svg?style=flat-square)
+![BNB Donations](https://img.shields.io/badge/BNB-{donation_data['balances'][6]['balance']}-bnb.svg?style=flat-square)
+
+# Live Updates from Telegram
+
+<div class="telegram-post-widget" data-telegram-post="Telegram/5"></div>
+<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-post="Telegram/5"></script>
 
 <p align="center">
   <strong>Powered by <a href="https://t.me/+P9aWGQZoD6MyNGM1">➤VorTex Network™</a></strong>
