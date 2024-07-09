@@ -120,10 +120,11 @@
 
 <h3 align="center">🎁 Donation Address</h3>
 <p align="center" style="margin: 10px;">
-  <code style="background-color: #f0f0f0; padding: 10px 20px; border-radius: 12px; display: inline-block; font-size: 1.2em; color: #333; transition: background-color 0.3s, color 0.3s, transform 0.3s, box-shadow 0.3s; margin: 10px;">
+  <code style="background-color: #f0f0f0; padding: 12px 24px; border-radius: 12px; display: inline-block; font-size: 1.2em; color: #333; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;">
     0x3A06322e9F1124F6B2de8F343D4FDce4D1009869
   </code>
 </p>
+
 
 
 <h3 align="center">📊 Donation Trackers</h3>
