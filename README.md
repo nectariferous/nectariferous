@@ -52,13 +52,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="https://media0.giphy.com/media/pzmbXFDiRbGX7spKVK/giphy.gif" width="100" alt="API Architecture">
-      <br>
-      <b>🔗 API Architecture</b>
-      <br>
-      <i>Designing high-performance, secure APIs</i>
-    </td>
+
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
