@@ -60,22 +60,6 @@
       <br>
       <i>Designing high-performance, secure APIs</i>
     </td>
-    <td align="center">
-      <img src="https://media2.giphy.com/media/jI2lZ1yECs7J9f7ZDO/giphy.gif" width="100" alt="Full-Stack Development">
-      <br>
-      <b>🌐 Full-Stack Mastery</b>
-      <br>
-      <i>Seamlessly bridging front-end and back-end</i>
-    </td>
-    <td align="center">
-      <img src="https://media4.giphy.com/media/kgUkCLMu3xhw1T6txv/giphy.gif" width="100" alt="DevOps & Cloud">
-      <br>
-      <b>☁️ DevOps & Cloud</b>
-      <br>
-      <i>Optimizing deployment and scalability</i>
-    </td>
-  </tr>
-</table>
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
