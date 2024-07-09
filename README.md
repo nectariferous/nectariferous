@@ -56,57 +56,53 @@
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
 
-### Languages & Frameworks
-
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
-[![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)]()
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)]() 
-[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)]()
-[![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)]()
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
-[![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)]()
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)]()
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)]()
-### Databases & Tools
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)]()
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)]()
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white)]()
-[![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)]()
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)]()
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]()   
-<h2 align="center">🏆 GitHub Accomplishments & ✨ Featured Projects</h2>
-
+<h3 align="center">Languages & Frameworks</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark&count_private=true" 
-       alt="GitHub Stats" 
-       style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; margin: 10px; width: 49%; max-width: 420px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=github_dark" 
-       alt="GitHub Streak Stats" 
-       style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; margin: 10px; width: 49%; max-width: 420px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
 </p>
 
+<h3 align="center">Databases & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326DE6?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes">
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure">
+</p>
+
+<h2 align="center">🏆 GitHub Accomplishments & ✨ Featured Projects</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; margin: 10px; width: 49%; max-width: 420px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=github_dark" alt="GitHub Streak Stats" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; margin: 10px; width: 49%; max-width: 420px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+</p>
 
 <h3 align="center">🚀 My Featured Projects</h3>
 <p align="center">
   <a href="https://github.com/nectariferous/MAGAZ" style="margin: 10px;" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=MAGAZ&theme=github_dark" alt="MAGAZ Project" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; width: 49%; max-width: 420px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s; box-sizing:border-box">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=MAGAZ&theme=github_dark" alt="MAGAZ Project" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; width: 49%; max-width: 420px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
   </a>
   <a href="https://github.com/nectariferous/hyip-investment-platform" style="margin: 10px;" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=hyip-investment-platform&theme=github_dark" alt="HYIP Investment Platform Project" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; width: 49%; max-width: 420px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s; box-sizing:border-box">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=hyip-investment-platform&theme=github_dark" alt="HYIP Investment Platform Project" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; width: 49%; max-width: 420px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: transform 0.3s;">
   </a>
 </p>
-
-
 
 <h2 align="center">💖 Support My Work</h2>
 <p align="center" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 20px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); display: inline-block; margin: 10px; background-color: #f9f9f9; transition: transform 0.2s;">
@@ -123,10 +119,10 @@
 
 <h3 align="center">🎁 Donation Address</h3>
 <p align="center" style="margin: 10px;">
-  <code style="background-color: #f0f0f0; padding: 12px 24px; border-radius: 12px; display: inline-block; font-size: 1.2em; color: #333; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;">0x3A06322e9F1124F6B2de8F343D4FDce4D1009869</code>
+  <code style="background-color: #f0f0f0; padding: 12px 24px; border-radius: 12px; display: inline-block; font-size: 1.2em; color: #333; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); transition: background-color 0.3s ease, color 0.3s ease, transform 0.3s ease;">
+    0x3A06322e9F1124F6B2de8F343D4FDce4D1009869
+  </code>
 </p>
-
-
 
 <h3 align="center">📊 Donation Trackers</h3>
 <p align="center">
@@ -138,14 +134,24 @@
   </a>
 </p>
 
-
 ## 🌐 Connect & Support
-
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nectariferous)
-[![Telegram Channel](https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/likhondotxyz)
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-Invest_in_Innovation-30363D?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/nectariferous)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Fuel_My_Creativity-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/nectariferous)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support_My_Projects-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nectariferous)    
+<p align="center">
+  <a href="https://t.me/nectariferous">
+    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+  <a href="https://t.me/likhondotxyz">
+    <img src="https://img.shields.io/badge/-Telegram_Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel">
+  </a>
+  <a href="https://github.com/sponsors/nectariferous">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-Invest_in_Innovation-30363D?style=for-the-badge&logo=github-sponsors" alt="GitHub Sponsors">
+  </a>
+  <a href="https://buymeacoffee.com/nectariferous">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Fuel_My_Creativity-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee">
+  </a>
+  <a href="https://ko-fi.com/nectariferous">
+    <img src="https://img.shields.io/badge/Ko--fi-Support_My_Projects-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi">
+  </a>
+</p>
 
 <h3 align="center">Thank you for exploring my digital realm! 🌟</h3>
 <p align="center">Feel free to reach out if you'd like to connect, collaborate, or discuss innovative ideas!</p>
@@ -155,8 +161,6 @@
   <img src="ETH_donations.png" alt="ETH Donations" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; margin: 10px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
   <img src="BNB_donations.png" alt="BNB Donations" style="border: 2px solid #2ECC40; border-radius: 10px; padding: 10px; margin: 10px; width: 300px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
 </p>
-
-
 
 <p align="center">
   <strong>Powered by <a href="https://t.me/+P9aWGQZoD6MyNGM1">➤VorTex Network™</a></strong>
