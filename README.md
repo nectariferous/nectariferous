@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1.0">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Almarai:wght@300;400;700;800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap" rel="stylesheet">
 </head>
 <body>
 
@@ -98,9 +98,9 @@
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark" alt=" ">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=github-dark-blue" alt="">
-  <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=darkhub&no-frame=true&row=1&column=7" alt="">
+  <img src="https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=github_dark" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nectariferous&theme=github-dark-blue" alt="GitHub Streak">
+  <img src="https://github-profile-trophy.vercel.app/?username=nectariferous&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies">
   <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313sibgqhe4f24zo7hlejvadex6y&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=313sibgqhe4f24zo7hlejvadex6y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="Spotify Now Playing">
   </a>
@@ -113,7 +113,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=MAGAZ&theme=github_dark" alt="MAGAZ Project">
   </a>
   <a href="https://github.com/nectariferous/hyip-investment-platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=hyip-investment-platform&theme=github_dark" alt="Blockchain Explorer Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nectariferous&repo=hyip-investment-platform&theme=github_dark" alt="HYIP Investment Platform Project">
   </a>
 </p>
 
@@ -158,18 +158,22 @@
 
 <h3 align="center">Thank you for exploring my digital realm! 🌟</h3>
 <p align="center">Feel free to reach out if you'd like to connect, collaborate, or discuss innovative ideas!</p>
+
 # Cryptocurrency Prices
 
-![Bitcoin Price](https://img.shields.io/badge/Bitcoin-{price_data['btc']['value']}-btc.svg?style=flat-square)
-![Ethereum Price](https://img.shields.io/badge/Ethereum-{price_data['eth']['value']}-eth.svg?style=flat-square)
-![Litecoin Price](https://img.shields.io/badge/Litecoin-{price_data['ltc']['value']}-ltc.svg?style=flat-square)
+![Bitcoin Price](BTC.png)
+![Ethereum Price](ETH.png)
+![Litecoin Price](LTC.png)
 
 # Donation Trackers
 
-![ETH Donations](https://img.shields.io/badge/ETH-{donation_data['balances'][1]['balance']}-eth.svg?style=flat-square)
-![BNB Donations](https://img.shields.io/badge/BNB-{donation_data['balances'][6]['balance']}-bnb.svg?style=flat-square)
+![ETH Donations](ETH_donations.png)
+![BNB Donations](BNB_donations.png)
 
-#
+# Live Updates from Telegram
+
+<div class="telegram-post-widget" data-telegram-post="Telegram/5"></div>
+<script async src="https://telegram.org/js/telegram-widget.js?14" data-telegram-post="Telegram/5"></script>
 
 <p align="center">
   <strong>Powered by <a href="https://t.me/+P9aWGQZoD6MyNGM1">➤VorTex Network™</a></strong>
