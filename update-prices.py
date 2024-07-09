@@ -18,7 +18,7 @@ donation_data = donation_response.json()
 def generate_price_image(ticker, value):
     image = Image.new('RGB', (200, 60), color = (73, 109, 137))
     draw = ImageDraw.Draw(image)
-    font = ImageFont.truetype("arial.ttf", 24)
+    font = ImageFont.load_default()
     draw.text((10, 10), f"{ticker}: {value:.8f}", font=font, fill=(255, 255, 255))
     image.save(f"{ticker}.png")
 
@@ -30,7 +30,7 @@ generate_price_image("LTC", price_data['ltc']['value'])
 def generate_donation_image(symbol, balance):
     image = Image.new('RGB', (300, 60), color = (73, 109, 137))
     draw = ImageDraw.Draw(image)
-    font = ImageFont.truetype("arial.ttf", 24)
+    font = ImageFont.load_default()
     draw.text((10, 10), f"{symbol} Donations: {balance}", font=font, fill=(255, 255, 255))
     image.save(f"{symbol}_donations.png")
 
