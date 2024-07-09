@@ -15,18 +15,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2ECC40&center=true&vCenter=true&width=600&height=70&lines=Welcome+to+Nectariferous'+Realm;Blockchain+%7C+Ethical+Hacking+%7C+API;Innovate+%7C+Create+%7C+Secure" alt="Typing SVG">
   </a>
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM5OTQ5NzMyYzM1NDQ1NDBlMGNhZGU5NGIyYjY1ZDA1NDJkZDJlNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="500">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/nectariferous?label=Followers&style=for-the-badge&color=2ECC40" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/nectariferous?label=Stars&style=for-the-badge&color=2ECC40" alt="GitHub Stars">
-  <img src="https://komarev.com/ghpvc/?username=nectariferous&color=2ECC40&style=for-the-badge&label=Profile+Views" alt="Profile Views">
-</p>
-
-
 <table align="center">
   <tr>
     <td align="center" width="33%">
@@ -52,6 +40,18 @@
     </td>
   </tr>
   <tr>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjM5OTQ5NzMyYzM1NDQ1NDBlMGNhZGU5NGIyYjY1ZDA1NDJkZDJlNiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding animation" width="500">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/nectariferous?label=Followers&style=for-the-badge&color=2ECC40" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/nectariferous?label=Stars&style=for-the-badge&color=2ECC40" alt="GitHub Stars">
+  <img src="https://komarev.com/ghpvc/?username=nectariferous&color=2ECC40&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+</p>
+
+
+
 
 
 <h2 align="center">🛠️ Tech Arsenal</h2>
