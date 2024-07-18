@@ -12,18 +12,6 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-## 🚀 Featured Projects
-
-- **MAGAZ**: A decentralized marketplace built on Ethereum, enabling secure P2P transactions.
-- **HYIP Investment Platform**: A blockchain-based high-yield investment platform with robust security measures.
-- **Wishpernet**: An innovative DApp connecting dreams and resources through smart contracts.
-
-## 📊 GitHub Analytics
-
-![Nectariferous's GitHub stats](https://github-readme-stats.vercel.app/api?username=nectariferous&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nectariferous&layout=compact&theme=radical)
-
 ## 🌠 Aspirations and Current Focus
 
 ```mermaid
